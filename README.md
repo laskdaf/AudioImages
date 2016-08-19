@@ -1,10 +1,5 @@
-# Piano
-Piano project for FCSN
+# AudioImages
+Audio Images Project for FCSN
 
-
-This app features two modes: free play and song-follow.
-
-During free play, pressing down on any of the music keys causes the note to be played.
-
-During song-follow mode, the user will need to press down on the key that is highlighted. If they key needs to be pressed multiple times, the key will flash the same color.  
-
+In this app, users are played an audio file and attempt to choose an image that corresponds to the audio from an image bank containing 4 choices.
+There are 4 categories.
